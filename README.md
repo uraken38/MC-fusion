@@ -1,4 +1,3 @@
-# MC-fusion
-Clustering Change Detection by Fusing Mixture Complexity
+# Clustering Change Detection by Fusing Mixture Complexity
 
-aaa
+This repository has simulation codes for detecting signs of cluster structural changes.
